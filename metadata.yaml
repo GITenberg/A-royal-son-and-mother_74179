@@ -1,0 +1,26 @@
+_repo: A-royal-son-and-mother_74179
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hügel, Baroness Pauline von
+    gutenberg_agent_id: '57382'
+    url: http://www.gutenberg.org/2009/agents/57382
+description: ''
+gutenberg_issued: '2024-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74179'
+language: en
+pgterms:marc904: https://archive.org/details/royalsonmother00hg
+pgterms:marc905: 20240730110120vonhgel
+pgterms:marc906: '1902'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aNotre Dame, Indiana :$bThe Ave Maria, Loretto Press, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A royal son and mother
+url: http://www.gutenberg.org/ebooks/74179
